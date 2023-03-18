@@ -35,7 +35,5 @@ app.listen(port, () => {
 
 
 // Counting objects: 100% (5/5), done.
-// Counting objects: 100% (5/5), done.
-// Counting objects: 100% (5/5), done.
 
 console.log("shamima is tying to collaborate with the team");
