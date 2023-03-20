@@ -45,7 +45,7 @@
       "location": "Maldives",
       "placeName": "Maldives",
       "category": [
-        "beach, maldives, island"
+        "beach", "maldives", "island"
       ],
       "title": "A Tropical Haven For Honeymooners",
       "pricePerPerson": 200,
@@ -85,7 +85,7 @@
       "location": "Thailand",
       "placeName": "Phi Phi Islands, Thailand",
       "category": [
-        "thailand, phiphi, island"
+        "thailand", "phiphi", "island"
       ],
       "title": "Island Paradise for the Beach Lover",
       "pricePerPerson": 170,
@@ -124,7 +124,7 @@
       "location": "Thailand",
       "placeName": "Koh Yao Nai, Thailand",
       "category": [
-        "thailand, kohyaonai, island"
+        "thailand", "kohyaonai", "island"
       ],
       "title": "A Sight Off the Beaten Track",
       "pricePerPerson": 190,
@@ -163,7 +163,7 @@
       "location": "Indonesia",
       "placeName": "Bali, Indonesia",
       "category": [
-        "beach, seaside, nature, bali"
+        "beach", "seaside", "nature", "bali"
       ],
       "title": "An Ideal Retreat For Beaches, Temples And Rice Terraces",
       "pricePerPerson": 210,
@@ -204,7 +204,7 @@
       "location": "Himachal Pradesh, India",
       "placeName": "Shimla, Himachal Pradesh",
       "category": [
-        "india, hillstation, snowfall, shimla, nature"
+        "india", "hillstation", "snowfall", "shimla", "nature"
       ],
       "title": "One of the most stunning hill resorts",
       "pricePerPerson": 300,
@@ -608,25 +608,26 @@
       "EventDuration": "3 Days & 2 Nights",
       "StartDate": "12-05-2023",
       "EndDate": "15-05-2023",
-      "CoverImage": "https://www.holidify.com/images/bgImages/PHI-PHI-ISLANDS.jpg",
+      "CoverImage": "https://res.cloudinary.com/simpleview/image/upload/v1674650667/clients/norway/New_Project_11__28f603e7-fce9-4bb3-96ec-8500d66f86f1.jpg",
       "images": [
-        "https://www.holidify.com/images/bgImages/PHI-PHI-ISLANDS.jpg",
-        "https://www.holidify.com/images/foreign/compressed/overview_1651.jpg",
-        "https://www.holidify.com/images/foreign/compressed/overview_1650.jpg",
-        "https://www.holidify.com/images/compressed/dest_wiki_12823.jpg",
-        "https://www.geeksforgeeks.org/python-display-text-to-pygame-window/?ref=lbp",
-        "https://www.holidify.com/images/compressed/dest_wiki_12831.jpg"
+        "https://res.cloudinary.com/simpleview/image/upload/v1674650667/clients/norway/New_Project_11__28f603e7-fce9-4bb3-96ec-8500d66f86f1.jpg",
+        "https://res.cloudinary.com/simpleview/image/upload/v1450117455/clients/norway/unesco-geirangerfjord-skagefla-waterfall-2-1_6cc6a64a-a204-432e-8753-01ef2080f24e.jpg",
+        "https://www.muchbetteradventures.com/magazine/content/images/2019/11/18105639/damir-spanic-7E54O7Fvbhw-unsplash.jpg",
+        "https://norwaytravelguide.imgix.net/194484/x/0/geirangerfjordennbsp-the-iconic-norwegian-fjord-2?auto=compress%2Cformat&ch=Width%2CDPR&dpr=1&ixlib=php-3.3.0&w=883&s=c331fcb4a15bd6324652eee1d3b42776",
+        "https://www.muchbetteradventures.com/magazine/content/images/2019/11/18110157/iStock-1135631755.jpg",
+        "https://cdn.fjordtours.com/imagecache/b/4/d/9/c/3/b4d9c3085c204ba55bcad5d3713c72be129e59c9.jpg",
+        "https://i.pinimg.com/originals/0d/fd/d8/0dfdd8b73f3e22a5dad50f757e2defee.jpg"
       ],
-      "description": "Phi Phi consists of a group of six islands. Only 40 km away from Phuket, Phi Phi Don and Phi Phi Leh are the two most famous islands of the six. With their pristine waters and vibrant parties, these islands are a wonderful way to spend a few days in Thailand. With four other islands besides the large ones, Phi Phi houses Bida Nok, Bida Nai, Ko Mai Phai, is also known as Bamboo Island. Phi Phi Islands became famous after the 2000 Hollywood flick 'The Beach' that was shot in Ko Phi Phi Le. Ko Phi Phi Leh houses The Viking Cave which is a thriving industry that sells edible birds nests.It's striking cliffs, white sand beaches with jungles all around and clear blue waters make it look nothing short of paradise. None of the islands has roads, and most of the islands are humanly inhabited, making Phi Phi Islands one of the few untainted beautiful landscapes left in the world. These easily accessible islands can be reached from both Phuket and Krabi, by a speedboat in just 45 minutes or by a ferry in 90 minutes."
+      "description": "We already know that Norway is easily in the top best places to visit in the world if you want to see grand, dazzling fjords of all kinds.But of all those hundreds of fjords to visit, Geiranger Fjord is probably the most incredible. It spans 15 kilometers in length and its coasts are completely inhabitable. The fjord can be visited by ferry, through kayaking, or by passing through Trollstigen road. Each option will reward you with a fantastic view of waterfalls and verticals mountains on all sides, leading up to steep cliffs that beg to be climbed on and Ziplined off of."
     },
     {
-      "id": 3,
-      "location": "Thailand",
-      "placeName": "Phi Phi Islands, Thailand",
+      "id": 16,
+      "location": "Namibia",
+      "placeName": "Sossusvlei, Namibia",
       "category": [
-        "thailand, phiphi, island"
+        "sossusvlei", "namibia", "desert"
       ],
-      "title": "Island Paradise for the Beach Lover",
+      "title": "Desert Paradise for the desert Lover",
       "pricePerPerson": 170,
       "packages": {
         "single": {
@@ -647,25 +648,26 @@
       "EventDuration": "3 Days & 2 Nights",
       "StartDate": "12-05-2023",
       "EndDate": "15-05-2023",
-      "CoverImage": "https://www.holidify.com/images/bgImages/PHI-PHI-ISLANDS.jpg",
+      "CoverImage": "https://guardian.ng/wp-content/uploads/2018/04/Photo_-Art-of-Safari.jpg",
       "images": [
-        "https://www.holidify.com/images/bgImages/PHI-PHI-ISLANDS.jpg",
-        "https://www.holidify.com/images/foreign/compressed/overview_1651.jpg",
-        "https://www.holidify.com/images/foreign/compressed/overview_1650.jpg",
-        "https://www.holidify.com/images/compressed/dest_wiki_12823.jpg",
-        "https://www.geeksforgeeks.org/python-display-text-to-pygame-window/?ref=lbp",
-        "https://www.holidify.com/images/compressed/dest_wiki_12831.jpg"
+        "https://guardian.ng/wp-content/uploads/2018/04/Photo_-Art-of-Safari.jpg",
+        "https://thumbs.dreamstime.com/z/dunes-namib-desert-sossusvlei-namibia-africa-dead-vlei-naukluft-national-park-195357221.jpg",
+        "https://www.worldatlas.com/r/w1200/upload/7c/69/80/shutterstock-421198501.jpg",
+        "https://media.cntraveler.com/photos/5dc570fe7208760009792642/master/pass/&Beyond-Sosussvlei_2019_guest_area_109.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/22/Sossusvlei.jpg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/29/b8/28/andbeyond-sossusvlei.jpg?w=700&h=-1&s=1",
+        "https://i.ytimg.com/vi/IMkSP1JfjhY/maxresdefault.jpg"
       ],
-      "description": "Phi Phi consists of a group of six islands. Only 40 km away from Phuket, Phi Phi Don and Phi Phi Leh are the two most famous islands of the six. With their pristine waters and vibrant parties, these islands are a wonderful way to spend a few days in Thailand. With four other islands besides the large ones, Phi Phi houses Bida Nok, Bida Nai, Ko Mai Phai, is also known as Bamboo Island. Phi Phi Islands became famous after the 2000 Hollywood flick 'The Beach' that was shot in Ko Phi Phi Le. Ko Phi Phi Leh houses The Viking Cave which is a thriving industry that sells edible birds nests.It's striking cliffs, white sand beaches with jungles all around and clear blue waters make it look nothing short of paradise. None of the islands has roads, and most of the islands are humanly inhabited, making Phi Phi Islands one of the few untainted beautiful landscapes left in the world. These easily accessible islands can be reached from both Phuket and Krabi, by a speedboat in just 45 minutes or by a ferry in 90 minutes."
+      "description": "Sossusvlei is undeniably one of the best vacation spots in Nambia. It is a clay and salt pan located within the Namib-Naukluft National Park. It is characterized by red dunes that roll, rising and falling, across a wide expanse of land. They form as a result of the rare rain that reaches the usually dry desert land.Some flora and fauna linger around this area, having adapted to the rough conditions, but it’s when moisture seeps its way into the environment that it truly flourishes. A lake forms in Sossusvlei, coaxing thousands of birds to the location in an impressive spectacle."
     },
     {
-      "id": 3,
-      "location": "Thailand",
-      "placeName": "Phi Phi Islands, Thailand",
+      "id": 17,
+      "location": "Angkor Wat",
+      "placeName": "Angkor Wat, Cambodia",
       "category": [
-        "thailand, phiphi, island"
+        "angkorwat", "cambodia", "mistry", "historical", "historicalplace"
       ],
-      "title": "Island Paradise for the Beach Lover",
+      "title": "A Paradise for the Historical Placae Lovers",
       "pricePerPerson": 170,
       "packages": {
         "single": {
@@ -686,25 +688,29 @@
       "EventDuration": "3 Days & 2 Nights",
       "StartDate": "12-05-2023",
       "EndDate": "15-05-2023",
-      "CoverImage": "https://www.holidify.com/images/bgImages/PHI-PHI-ISLANDS.jpg",
+      "CoverImage": "https://www.deutschland.de/sites/default/files/media/image/AdobeStock_99698574.jpg",
       "images": [
-        "https://www.holidify.com/images/bgImages/PHI-PHI-ISLANDS.jpg",
-        "https://www.holidify.com/images/foreign/compressed/overview_1651.jpg",
-        "https://www.holidify.com/images/foreign/compressed/overview_1650.jpg",
-        "https://www.holidify.com/images/compressed/dest_wiki_12823.jpg",
-        "https://www.geeksforgeeks.org/python-display-text-to-pygame-window/?ref=lbp",
-        "https://www.holidify.com/images/compressed/dest_wiki_12831.jpg"
+        "https://www.deutschland.de/sites/default/files/media/image/AdobeStock_99698574.jpg",
+        "https://cdn.britannica.com/56/122156-050-F5B469C8/overview-complex-Angkor-Wat-Cambodia.jpg",
+        "https://www.muchbetteradventures.com/magazine/content/images/2022/08/Angkor-Wat-Cambodia-entrance-1.jpg",
+        "https://imageio.forbes.com/specials-images/imageserve/6201c66e1fe0850bfc37fa84/Forgotten-temple/960x0.jpg?format=jpg&width=960",
+        "https://cdn1.i-scmp.com/sites/default/files/images/methode/2016/08/11/0dd04594-5d2b-11e6-82a1-e6803dbb30ea_image_hires.jpg",
+        "https://holidayandtrips.com/wp-content/uploads/2019/07/Angkor-Wat-Cambodias-most-famous-temple-1.jpg",
+        "https://cdn.britannica.com/35/171035-050-8423095A/Angkor-Wat-Siemreab-Cambodia.jpg",
+        "https://www.reviewofreligions.org/wp-content/uploads/2020/07/Angkor-wat-siem-reap-cambodia-bhuddist-hindu-shutterstock_620568230-scaled.jpg",
+        "https://lp-cms-production.imgix.net/2021-11/GettyImages-1304987250.jpg?auto=format&q=75&w=1920",
+        "https://upload.wikimedia.org/wikipedia/commons/4/44/Ankor_Wat_temple.jpg"
       ],
-      "description": "Phi Phi consists of a group of six islands. Only 40 km away from Phuket, Phi Phi Don and Phi Phi Leh are the two most famous islands of the six. With their pristine waters and vibrant parties, these islands are a wonderful way to spend a few days in Thailand. With four other islands besides the large ones, Phi Phi houses Bida Nok, Bida Nai, Ko Mai Phai, is also known as Bamboo Island. Phi Phi Islands became famous after the 2000 Hollywood flick 'The Beach' that was shot in Ko Phi Phi Le. Ko Phi Phi Leh houses The Viking Cave which is a thriving industry that sells edible birds nests.It's striking cliffs, white sand beaches with jungles all around and clear blue waters make it look nothing short of paradise. None of the islands has roads, and most of the islands are humanly inhabited, making Phi Phi Islands one of the few untainted beautiful landscapes left in the world. These easily accessible islands can be reached from both Phuket and Krabi, by a speedboat in just 45 minutes or by a ferry in 90 minutes."
+      "description": "If you love history and archaeology, Angkor Wat is one of the best places to travel in the world.Across 400 square kilometers, this temple of the Hindu faith was built in the 12th century under the Khmer Empire and took a whopping 35 years to complete.Today, Angkor Wat is a UNESCO World Heritage Site, and it doesn’t just host the staggering ancient wonders of the temple, but also other attractions for tourists, and plenty of jungle-trekking to get there. Make sure you’re all geared up early and you just may catch the sunrise!"
     },
     {
-      "id": 3,
-      "location": "Thailand",
-      "placeName": "Phi Phi Islands, Thailand",
+      "id": 18,
+      "location": "Vatnajokull Ice Caves",
+      "placeName": "Vatnajokull Ice Caves, Iceland",
       "category": [
-        "thailand, phiphi, island"
+        "caves", "vatnajokull", "cave", "island"
       ],
-      "title": "Island Paradise for the Beach Lover",
+      "title": "Cave Paradise for the Cave Lovers",
       "pricePerPerson": 170,
       "packages": {
         "single": {
@@ -725,25 +731,25 @@
       "EventDuration": "3 Days & 2 Nights",
       "StartDate": "12-05-2023",
       "EndDate": "15-05-2023",
-      "CoverImage": "https://www.holidify.com/images/bgImages/PHI-PHI-ISLANDS.jpg",
+      "CoverImage": "https://bridgesandballoons.com/Images/2017/03/Iceland-16.jpg",
       "images": [
-        "https://www.holidify.com/images/bgImages/PHI-PHI-ISLANDS.jpg",
-        "https://www.holidify.com/images/foreign/compressed/overview_1651.jpg",
-        "https://www.holidify.com/images/foreign/compressed/overview_1650.jpg",
-        "https://www.holidify.com/images/compressed/dest_wiki_12823.jpg",
-        "https://www.geeksforgeeks.org/python-display-text-to-pygame-window/?ref=lbp",
-        "https://www.holidify.com/images/compressed/dest_wiki_12831.jpg"
+        "https://bridgesandballoons.com/Images/2017/03/Iceland-16.jpg",
+        "https://adventures.is/media/226921/anaconda-ice-cave-tunnel-vatnajokull.jpg",
+        "https://adventures.is/media/226924/ice-cave-katla.jpg",
+        "https://visitvatnajokull.is/wp-content/uploads/2018/03/IMG_8955.jpg",
+        "https://i.natgeofe.com/n/a600ca4f-c5d9-4083-be6a-0a1c9dc6694b/vatnajokull-glacier-cave-iceland-590.jpg",
+        "https://i0.wp.com/grapevine.is/wp-content/uploads/2020/12/bic1808_by_bicnick.jpg?fit=1600%2C1067&quality=99&ssl=1"
       ],
-      "description": "Phi Phi consists of a group of six islands. Only 40 km away from Phuket, Phi Phi Don and Phi Phi Leh are the two most famous islands of the six. With their pristine waters and vibrant parties, these islands are a wonderful way to spend a few days in Thailand. With four other islands besides the large ones, Phi Phi houses Bida Nok, Bida Nai, Ko Mai Phai, is also known as Bamboo Island. Phi Phi Islands became famous after the 2000 Hollywood flick 'The Beach' that was shot in Ko Phi Phi Le. Ko Phi Phi Leh houses The Viking Cave which is a thriving industry that sells edible birds nests.It's striking cliffs, white sand beaches with jungles all around and clear blue waters make it look nothing short of paradise. None of the islands has roads, and most of the islands are humanly inhabited, making Phi Phi Islands one of the few untainted beautiful landscapes left in the world. These easily accessible islands can be reached from both Phuket and Krabi, by a speedboat in just 45 minutes or by a ferry in 90 minutes."
+      "description": "The Vatnajokull Ice Caves are deadly when the ice melts in the spring and summer, but come winter, it’s a tourist’s paradise.A huge network of caverns, tunnels, and caves appear surreal and breathtaking, reflected in bright teal and cerulean thanks to air bubbles, icebergs, and other factors. Plus, let’s not forget about the Vatnajokull glacier, which spans 5,500 square miles and is the biggest glacier that the country has to offer. All in all, this spot is perfect for a wonderful, fantastic vacation full of truly glorious photo opportunities. Unfortunately, global warming has caused many of these caves to become threatened, so a trip here would be one of the best vacations to plan quickly before it’s too late!"
     },
     {
-      "id": 3,
-      "location": "Thailand",
-      "placeName": "Phi Phi Islands, Thailand",
+      "id": 19,
+      "location": "Antelope Canyon",
+      "placeName": "Antelope Canyon, USA",
       "category": [
-        "thailand, phiphi, island"
+        "usa", "canyon", "water", "nature"
       ],
-      "title": "Island Paradise for the Beach Lover",
+      "title": "Canyon Paradise for the Canyon Lovers",
       "pricePerPerson": 170,
       "packages": {
         "single": {
@@ -764,25 +770,25 @@
       "EventDuration": "3 Days & 2 Nights",
       "StartDate": "12-05-2023",
       "EndDate": "15-05-2023",
-      "CoverImage": "https://www.holidify.com/images/bgImages/PHI-PHI-ISLANDS.jpg",
+      "CoverImage": "https://travelmelodies.com/wp-content/uploads/2020/01/travel-melodies-antelope-canyon-arizona-usa.jpg",
       "images": [
-        "https://www.holidify.com/images/bgImages/PHI-PHI-ISLANDS.jpg",
-        "https://www.holidify.com/images/foreign/compressed/overview_1651.jpg",
-        "https://www.holidify.com/images/foreign/compressed/overview_1650.jpg",
-        "https://www.holidify.com/images/compressed/dest_wiki_12823.jpg",
-        "https://www.geeksforgeeks.org/python-display-text-to-pygame-window/?ref=lbp",
-        "https://www.holidify.com/images/compressed/dest_wiki_12831.jpg"
+        "https://travelmelodies.com/wp-content/uploads/2020/01/travel-melodies-antelope-canyon-arizona-usa.jpg",
+        "https://usareisetipps.com/wp-content/uploads/antelope-canyon-tour-gruppe.jpg",
+        "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/abstract-pattern-formation-of-sand-falling-in-a-cave-in-the-upper-antelope-canyon-ami-parikh.jpg",
+        "https://landscapephotographymagazine.com/wp-content/uploads/2019/07/Antelope-Canyon-Arizona-USA-by-Craig-Bill.jpg",
+        "https://i.ytimg.com/vi/Dz_m2TUizZ8/maxresdefault.jpg",
+        "https://usareisetipps.com/wp-content/uploads/antelope-canyon-einstieg.jpg"
       ],
-      "description": "Phi Phi consists of a group of six islands. Only 40 km away from Phuket, Phi Phi Don and Phi Phi Leh are the two most famous islands of the six. With their pristine waters and vibrant parties, these islands are a wonderful way to spend a few days in Thailand. With four other islands besides the large ones, Phi Phi houses Bida Nok, Bida Nai, Ko Mai Phai, is also known as Bamboo Island. Phi Phi Islands became famous after the 2000 Hollywood flick 'The Beach' that was shot in Ko Phi Phi Le. Ko Phi Phi Leh houses The Viking Cave which is a thriving industry that sells edible birds nests.It's striking cliffs, white sand beaches with jungles all around and clear blue waters make it look nothing short of paradise. None of the islands has roads, and most of the islands are humanly inhabited, making Phi Phi Islands one of the few untainted beautiful landscapes left in the world. These easily accessible islands can be reached from both Phuket and Krabi, by a speedboat in just 45 minutes or by a ferry in 90 minutes."
+      "description": "This geological phenomenon is located on Navajo territory and it is a slot canyon that boasts the privilege of being the most photographed of its kind universally.The upper canyon area is more popular and offers a fantastic view of the curving, wavy walls of sandstone, while the lower canyon area boasts a more up-close-and-personal interaction with the magnolias colors it boasts.Antelope Canyon is easily one of the most beautiful places in the US thanks to the amazing appearance it offers.It’s amazing to think that all these fascinating shades of sandstone, in orange, yellow, pink, and red, occurred naturally!"
     },
     {
-      "id": 3,
-      "location": "Thailand",
-      "placeName": "Phi Phi Islands, Thailand",
+      "id": 20,
+      "location": "Pyramids",
+      "placeName": "Pyramids of Giza, Egypt",
       "category": [
-        "thailand, phiphi, island"
+        "pyramid", "desert", "historicalplace"
       ],
-      "title": "Island Paradise for the Beach Lover",
+      "title": "A Paradise for the Pyramids & History Lovers",
       "pricePerPerson": 170,
       "packages": {
         "single": {
@@ -803,15 +809,15 @@
       "EventDuration": "3 Days & 2 Nights",
       "StartDate": "12-05-2023",
       "EndDate": "15-05-2023",
-      "CoverImage": "https://www.holidify.com/images/bgImages/PHI-PHI-ISLANDS.jpg",
+      "CoverImage": "https://lp-cms-production.imgix.net/2020-11/GettyRF_1085205362.jpg?auto=format&q=75&w=3840",
       "images": [
-        "https://www.holidify.com/images/bgImages/PHI-PHI-ISLANDS.jpg",
-        "https://www.holidify.com/images/foreign/compressed/overview_1651.jpg",
-        "https://www.holidify.com/images/foreign/compressed/overview_1650.jpg",
-        "https://www.holidify.com/images/compressed/dest_wiki_12823.jpg",
-        "https://www.geeksforgeeks.org/python-display-text-to-pygame-window/?ref=lbp",
-        "https://www.holidify.com/images/compressed/dest_wiki_12831.jpg"
+        "https://lp-cms-production.imgix.net/2020-11/GettyRF_1085205362.jpg?auto=format&q=75&w=3840",
+        "https://s27363.pcdn.co/wp-content/uploads/2020/05/Pyramids-of-Giza-Guide-1200x900.jpg.optimal.jpg",
+        "https://s27363.pcdn.co/wp-content/uploads/2020/04/Camel-Ride.jpg.optimal.jpg",
+        "https://thirdeyetraveller.com/wp-content/uploads/GIZA-1-of-1-6.jpg",
+        "https://cdn-imgix.headout.com/tour/26524/TOUR-IMAGE/ffbfd232-0846-455a-855c-2bda58393268-13944-cairo-skip-the-line-tickets---pyramids-of-giza-06.jpg",
+        "https://i.natgeofe.com/n/c39ee1b2-9061-4e28-bad6-0ba27094c8fa/1-pyramids-giza-NationalGeographic_911975_16x9.jpg?w=1200"
       ],
-      "description": "Phi Phi consists of a group of six islands. Only 40 km away from Phuket, Phi Phi Don and Phi Phi Leh are the two most famous islands of the six. With their pristine waters and vibrant parties, these islands are a wonderful way to spend a few days in Thailand. With four other islands besides the large ones, Phi Phi houses Bida Nok, Bida Nai, Ko Mai Phai, is also known as Bamboo Island. Phi Phi Islands became famous after the 2000 Hollywood flick 'The Beach' that was shot in Ko Phi Phi Le. Ko Phi Phi Leh houses The Viking Cave which is a thriving industry that sells edible birds nests.It's striking cliffs, white sand beaches with jungles all around and clear blue waters make it look nothing short of paradise. None of the islands has roads, and most of the islands are humanly inhabited, making Phi Phi Islands one of the few untainted beautiful landscapes left in the world. These easily accessible islands can be reached from both Phuket and Krabi, by a speedboat in just 45 minutes or by a ferry in 90 minutes."
+      "description": "Most people would consider the world-famous Pyramids of Giza to be among the best vacation spots that the world has to offer.Among them are the gigantic Pyramid of Cheops, the intriguing Pyramid of Chephren, and, of course, the towering Sphinx that gazes over the land with watchful eyes. Experience the wonders of ancient Egypt within these pyramids, where you will see sarcophagi, passages, statues, and structures all worthy of exploration. It’s no wonder that these iconic structures are so renowned!"
     }
   ]
